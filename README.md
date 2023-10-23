@@ -1,8 +1,8 @@
-# I'm Andrew, founder and principal software engineer of [Unbroken Code](http://unbrokencode.tech), a new digital strategy studio based in Miami, FL specializing in web development, campaign management, marketing and SEO, and user experience.
+# Oh hi, World. I'm Andrew, founder and principal software engineer of [Unbroken Code](http://unbrokencode.tech), a new digital strategy studio based in Miami, FL.
 
-I've spent a decade helping arts and culture nonprofits understand, grow, and manage their audiences to tremendous effect. Now I'm helping artists, organizations, and startups show off their best digital selves. I've been told I'm "quirky" but who doesn't like to keep things interesting.
+I've spent a decade helping arts and culture nonprofits grow their audiences and scale content production to tremendous effect. Now I'm helping artists, organizations, and startups show off their best digital selves. Umbroken Code proudly specializes in web development, campaign management, marketing and SEO, user experience, and "big ideas." I'm also a proud recent graduate in software development of BrainStation in Miami, FL.
 
-Find me on [LinkedIn](https://linkedin.com/in/amclees) or at the rock show.
+Find me on [LinkedIn](https://linkedin.com/in/amclees), contact me at amclees@unbrokencode.tech, or see you at the rock show.
 
 ## New & Current Skills 🧑🏻‍💻
 | Frontend | Backend |
@@ -15,18 +15,3 @@ Find me on [LinkedIn](https://linkedin.com/in/amclees) or at the rock show.
 | In Queue | Future |
 | --- | --- |
 [![My Skills](https://skillicons.dev/icons?i=figma,ts,webflow,docker,flutter,vue,prisma,materialui&perline=4)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=python,rust,docker,flutter,vue,&perline=4)](https://skillicons.dev) |
-
-<!--
-**andrewmclees/andrewmclees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
