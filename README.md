@@ -7,12 +7,12 @@ I'm Andrew, founder of **Unbroken Code**, a new digital strategy studio based in
 ## New & Current Skills 🧑🏻‍💻
 | Frontend | Backend |
 | --- | --- |
-| [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,sass,tailwind,nextjs,vite&perline=4)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,firebase,heroku,netlify,jest&perline=4)](https://skillicons.dev) | 
+| [![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,sass,tailwind,nextjs,vite&perline=4)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,firebase,heroku,netlify,jest&perline=4)](https://skillicons.dev) | 
 
 ## Learning Never Stops 🙇🏻‍♂️
 | In Queue | Future |
 | --- | --- |
-[![My Skills](https://skillicons.dev/icons?i=figma,ts,webflow,flutter,prisma,materialui&perline=4)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=python,rust,docker,flutter,vue,&perline=4)](https://skillicons.dev) |
+[![My Skills](https://skillicons.dev/icons?i=figma,webflow,flutter,prisma,materialui&perline=4)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=python,rust,docker,flutter,vue,&perline=4)](https://skillicons.dev) |
 
 I'm also always around to chat about music, food, and travel.
 
